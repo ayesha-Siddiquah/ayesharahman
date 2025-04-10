@@ -36,6 +36,7 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 <a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-Siddiquah&stroke=000000&background=365314&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <b>GitHub Commit Graph</b>
+<h2 style="text-decoration: underline; font-size: 24px;">GitHub Commit Graph</h2>
 <a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayesha-Siddiquah&bg_color=365314&color=000000&line=ef4444&point=000000&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
