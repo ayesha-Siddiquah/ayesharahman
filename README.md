@@ -23,13 +23,12 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 </p>
 
 
-### Socials
 <h2 style="text-decoration: underline; font-size: 24px;">Socials</h2>
 
 <p align="left"> <a href="https://www.github.com/ayesha-Siddiquah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ayayesha_daydreaming/?igsh=MWoxOHlrYWsxOWd1NQ%3D%3D#" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ayesha-rahman-091430141" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-<b>My GitHub Stats</b>
+
 <h2 style="text-decoration: underline; font-size: 24px;">Git-Hub Stats</h2>
 
 <a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-Siddiquah&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="ayesha-Siddiquah's GitHub stats" /></a>
@@ -42,7 +41,7 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 
 <a href="https://github.com/ayesha-Siddiquah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-Siddiquah&langs_count=10&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<h2 style="text-decoration: underline; font-size: 24px;">Top Repositories</h2>
 
 <div width="100%" align="center"><a href="https://github.com/ayesha-Siddiquah/salon-booking-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=salon-booking-system&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a><a href="https://github.com/ayesha-Siddiquah/Tourism_Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=Tourism_Site&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 
@@ -55,6 +54,7 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 <P>&nbsp</p>
 <P>&nbsp</p>
 
-<b>GitHub Contribution Graph</b>
+
+<h2 style="text-decoration: underline; font-size: 24px;">GitHub Contribution Graph</h2>
 <!-- GitHub Contribution Graph -->
 ![Ayesha's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ayesha-Siddiquah&theme=github-dark)
