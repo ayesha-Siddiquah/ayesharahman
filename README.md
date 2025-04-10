@@ -14,7 +14,7 @@ Full Stack Developer with 2.8 years of experience in building user interfaces, s
 * ⚡  I am a Henna Artist :-)
 
 <a href="https://www.github.com/ayesha-Siddiquah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=for-the-badge&color=0891b2&labelColor=365314" /></a>
+src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=for-the-badge&color=ef4444&labelColor=365314" /></a>
 
 ### Skills
 
@@ -32,14 +32,18 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-Siddiquah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=365314&hide_border=true&show_icons=true" alt="ayesha-Siddiquah's GitHub stats" /></a>
+<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-Siddiquah&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="ayesha-Siddiquah's GitHub stats" /></a>
 
-<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-Siddiquah&stroke=ffffff&background=365314&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-Siddiquah&stroke=000000&background=365314&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayesha-Siddiquah&bg_color=365314&color=ffffff&line=0891b2&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayesha-Siddiquah&bg_color=365314&color=000000&line=ef4444&point=000000&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ayesha-Siddiquah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-Siddiquah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ayesha-Siddiquah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-Siddiquah&langs_count=10&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ayesha-Siddiquah/https://github.com/ayesha-Siddiquah/salon-booking-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=https://github.com/ayesha-Siddiquah/salon-booking-system&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a><a href="https://github.com/ayesha-Siddiquah/https://github.com/ayesha-Siddiquah/Tourism_Site" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=https://github.com/ayesha-Siddiquah/Tourism_Site&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/ayesha-Siddiquah/https://github.com/ayesha-Siddiquah/WWTBM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=https://github.com/ayesha-Siddiquah/WWTBM&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a><a href="https://github.com/ayesha-Siddiquah/https://github.com/ayesha-Siddiquah/Profiles-Navigation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayesha-Siddiquah&repo=https://github.com/ayesha-Siddiquah/Profiles-Navigation&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en" /></a></div>
