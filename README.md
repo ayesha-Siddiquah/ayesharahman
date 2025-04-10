@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c54a260c-fe05-474e-b25b-e746b4331aeb)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayesha Rahman
+My name is Ayesha Rahman
 =====================================================================================================================================
 
 Full Stack Developer
