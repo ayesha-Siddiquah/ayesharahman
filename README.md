@@ -16,7 +16,6 @@ Full Stack Developer with 2.8 years of experience in building user interfaces, s
 <a href="https://www.github.com/ayesha-Siddiquah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=for-the-badge&color=ef4444&labelColor=365314" /></a>
 
-### Skills
 <h2 style="text-decoration: underline; font-size: 24px;">Skills</h2>
 
 <p align="left">
@@ -29,9 +28,9 @@ src="https://img.shields.io/github/followers/ayesha-Siddiquah?logo=github&style=
 
 <p align="left"> <a href="https://www.github.com/ayesha-Siddiquah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ayayesha_daydreaming/?igsh=MWoxOHlrYWsxOWd1NQ%3D%3D#" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ayesha-rahman-091430141" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
+<h2 style="text-decoration: underline; font-size: 24px;">Git-Hub Stats</h2>
 
 <a href="http://www.github.com/ayesha-Siddiquah"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-Siddiquah&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="ayesha-Siddiquah's GitHub stats" /></a>
 
